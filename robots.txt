@@ -1,0 +1,7 @@
+# robots.txt for https://jonesgameshub.netlify.app
+# Generated offline - 2026-09-24
+
+User-agent: *
+Allow: /
+
+Sitemap: https://jonesgameshub.netlify.app/sitemap.xml
