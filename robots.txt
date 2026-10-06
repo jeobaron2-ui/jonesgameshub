@@ -1,0 +1,7 @@
+# robots.txt for https://jeobaron2-ui.github.io/jonesgameshub
+# Generated offline - 2026-10-05
+
+User-agent: *
+Allow: /
+
+Sitemap: https://jeobaron2-ui.github.io/jonesgameshub/sitemap.xml
