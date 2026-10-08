@@ -4,4 +4,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jeobaron2-ui.github.io/jonesgameshub/sitemap.xml
+Sitemap: https://jeobaron2-ui.github.io/jonesgameshub/sitemap_index.xml
